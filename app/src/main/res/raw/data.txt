@@ -1,0 +1,10 @@
+Where do Liverpool play?, White Hart Lane, Old Trafford, Anfield, Emirates Stadium, Anfield
+Where do Arsenal play?, Emirates Stadium, Old Trafford, The Bridge, Fretton Park, Emirates Stadium
+Where do Chelsea play?, Old Trafford, Anfield, The Bridge, Fretton Park, The Bridge
+Where do Spurs play?, White Hart Lane, Anfield, Goddison Park, The Bridge, White Hart Lane
+Where do Everton Play?, Fretton Park, Goddison Park, White Hart Lane, The Bridge, Goddison Park
+Where do Leeds Play?, Goddison Park, Anfield, Emirates Stadium, Elland Road, Elland Road
+Where do Manchester United Play?, Elland Road, Old Trafford, The Bridge, Goddison Park, Old Trafford
+Where do West Ham Play?, Goddison Park, Old Trafford, Emirates Stadium, Upton Park, Upton Park
+Where do Leyton Orient Play?, Elland Road, Old Trafford, Brisbane Road, White Hart Lane, Brisbane Road
+Where do Doncaster Rovers Play?, Belle Vue, White Hart Lane, The Bridge, Goddison Park, Belle Vue
